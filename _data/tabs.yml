@@ -9,10 +9,10 @@
   name: Home
   icon: "fas fa-home"
 -
-  name: Categories
-  icon: "fas fa-stream"
+  name: "Archives"
   path: tabs
-  url: categories
+  url: archives
+  icon: "fas fa-archive"
 -
   name: "About"
   icon: "fas fa-info"
