@@ -73,10 +73,10 @@ main() {
     _filename="${_file%.*}"     # jekyll cannot read the extension of a file, so omit it.
     _filename=${_filename:11}   # remove the date
 
-    if _has_changed "$_filepath"; then
-      _dump "$_filename" "$_filepath"
-      ((_count=_count+1))
-    fi
+    # if _has_changed "$_filepath"; then
+    _dump "$_filename" "$_filepath"
+    ((_count=_count+1))
+    # fi
 
   done
 
