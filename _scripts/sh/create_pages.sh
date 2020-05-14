@@ -58,7 +58,8 @@ init() {
 
 
 create_category() {
-  local _name=$1
+  # local _name=$1
+  local _name=${1%$'\r'}
   local _filepath="categories/$(echo $_name | sed 's/ /-/g' | awk '{print tolower($0)}').html"
 
   if [[ ! -f $_filepath ]]; then

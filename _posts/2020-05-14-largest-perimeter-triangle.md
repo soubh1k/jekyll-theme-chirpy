@@ -2,7 +2,7 @@
 title: Largest Perimeter Triangle
 author: Soubhik Rakshit
 date: 2020-05-14 19:10:00 -0400
-categories: [Leetcode, Tutorial]
+categories: [Leetcode, code]
 tags: [easy, array]
 ---
 

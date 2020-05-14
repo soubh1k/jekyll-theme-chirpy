@@ -2,7 +2,7 @@
 title: Implement Trie (Prefix Tree)
 author: Soubhik Rakshit
 date: 2020-05-14 12:00:00 -0400
-categories: [Leetcode, Tutorial]
+categories: [Leetcode, code]
 tags: [medium, tree, string]
 ---
 
