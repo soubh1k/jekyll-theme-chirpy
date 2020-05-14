@@ -33,8 +33,8 @@ Let us consider 2 strings of the form _abcd_ and _xyz_.
 **Complexity**
 
 Let _m_ and _n_ be the size of the input arrays.
-##### Time complexity - O(max(m, n)), as we traverse once through the larger array.
-##### Space complexity - O(max(m, n)), as result will be almost the same size as that of the larger array.
+* Time complexity - O(max(m, n)), as we traverse once through the larger array.
+* Space complexity - O(max(m, n)), as result will be almost the same size as that of the larger array.
 
 ```c++
 class Solution {
