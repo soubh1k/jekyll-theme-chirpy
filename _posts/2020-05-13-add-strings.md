@@ -30,6 +30,12 @@ Let us consider 2 strings of the form _abcd_ and _xyz_.
 * We continue by summing the carry value as done earlier and finally upon reaching the end, we reverse the resulting string and return it.
 * One thing I noticed from testing is that don't erase 0's from the beginning of the resulting string.
 
+**Complexity**
+
+Let _m_ and _n_ be the size of the input arrays.
+##### Time complexity - O(max(m, n)), as we traverse once through the larger array.
+##### Space complexity - O(max(m, n)), as result will be almost the same size as that of the larger array.
+
 ```c++
 class Solution {
 public:
