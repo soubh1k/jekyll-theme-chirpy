@@ -32,6 +32,8 @@ Let _m_ and _n_ be the size of the input arrays.
 * Time complexity - _O(max(m, n))_, as we traverse once through the larger array.
 * Space complexity - _O(max(m, n))_, as result will be almost the same size as that of the larger array.
 
+**Code**
+
 ```c++
 class Solution {
 public:
