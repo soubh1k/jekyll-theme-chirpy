@@ -27,4 +27,3 @@
   name: "About"
   icon: "fas fa-info"
   path: tabs
-  url: about
