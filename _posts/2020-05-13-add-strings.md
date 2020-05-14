@@ -9,6 +9,7 @@ tags: [leetcode, easy]
 [**LeetCode Question Link**](https://leetcode.com/problems/add-strings/)
 
 **Problem Statement**
+
 > Given two non-negative integers `num1` and `num2` represented as string, return the sum of `num1` and `num2`.
 
 NOTE:
@@ -18,6 +19,7 @@ NOTE:
 4. You **must not use any built-in BigInteger library** or **convert the inputs to integer** directly.
 
 **Solution Approach**
+
 Let us consider 2 strings of the form _abcd_ and _xyz_.
 * We initialize a _carry_ value of 0.
 * Start by adding two characters from the right of both strings.
