@@ -8,18 +8,15 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: Soubhik                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Thoughts  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A website to write my thoughts.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 # url: 'http://127.0.0.1'
-# url: 'http://34.239.240.251'
 url: 'https://blog.soubhik.xyz'
 
 author: Soubhik Rakshit                  # change to your full name
@@ -37,8 +34,8 @@ social:
   email: soubhikraksh@cs.umass.edu             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/soubh1k      # change to your twitter homepage
+    - https://github.com/soubh1k       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -83,7 +80,7 @@ disqus:
 theme_mode: dual
 
 # boolean type, global switch for ToC in posts.
-toc: true
+toc: false
 
 paginate: 10
 
