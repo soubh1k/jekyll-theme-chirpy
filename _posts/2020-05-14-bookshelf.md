@@ -7,7 +7,7 @@ tags: [books]
 sticky: true
 ---
 
-This section was inspired by Patrick Collision's own [**bookshelf**](https://patrickcollison.com/bookshelf).
+This section was inspired by Patrick Collison's own [**bookshelf**](https://patrickcollison.com/bookshelf).
 
 I have read all the books listed here. They are arranged in no particular order.
 
