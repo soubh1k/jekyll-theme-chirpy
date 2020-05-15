@@ -1,7 +1,7 @@
 ---
 title: My Bookshelf
 author: Soubhik Rakshit
-date: 2020-05-14 20:00:00 +0000
+date: 2020-05-14 20:00:00 -0400
 categories: [Thoughts]
 tags: [books]
 sticky: true
