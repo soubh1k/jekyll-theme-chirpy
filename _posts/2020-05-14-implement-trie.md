@@ -18,7 +18,7 @@ NOTE:
 
 **Solution Approach**
 
-* Initialiaze the trie by creating a `head` node. Every node in the trie contains a vector of 26 child nodes. Initially, the children of `head` are `NULL`.
+* Initialize the trie by creating a `head` node. Every node in the trie contains a vector of 26 child nodes. Initially, the children of `head` are `NULL`.
 * There is also a boolean variable `present` which denotes whether the word ending at that particular node should be in the trie or not.
 * For `insert` operation, we check if corresponding characters are present in the trie or not. If they are, we simply proceed to the next character. Otherwise, we create a new child to trie. Finally, we reach the end of the stirng and set `present` to `true` denoting the fact that the string ending at that node is present in the trie.
 * For `search` operation, we simply check if corresponding children of the nodes are present in the trie or not. If we cannot find a child for any character in the string, we return `false`. Otherwise, we traverse the trie until we reach the end of the string. Finally, we check if the value of `present` in the node is `true` or not. If not, then that word was never inserted into the trie. Otherwise we return `true`.
