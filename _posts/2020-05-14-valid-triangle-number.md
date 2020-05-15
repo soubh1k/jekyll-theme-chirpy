@@ -1,5 +1,5 @@
 ---
-title: Implement Trie (Prefix Tree)
+title: Valid Triangle Number
 author: Soubhik Rakshit
 date: 2020-05-14 20:30:00 -0400
 categories: [Leetcode, Code]
@@ -25,7 +25,7 @@ NOTE:
 
 **Complexity**
 
-* Time complexity - _O(n^2)_. This is almost like [**3sum**](posts/three-sum/).
+* Time complexity - _O(n^2)_. This is almost like [**3sum**]({{site.url}}/posts/three-sum/).
 * Space complexity - _O(1)_. Remember that `std::sort` is an in-place sorting algorithm.
 
 ```c++

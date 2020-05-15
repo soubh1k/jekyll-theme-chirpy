@@ -11,7 +11,7 @@ sticky: true
 
 **Some thoughts**
 
-* Most of the time spent in getting this site up and running was in creating the [**Tags**](tabs/tags/) and [**Categories**](tabs/categories/) pages.
+* Most of the time spent in getting this site up and running was in creating the [**Tags**]({{site.url}}/tabs/tags/) and [**Categories**]({{site.url}}/tabs/categories/) pages.
 * The problem was with the extraction of `tags` and `categories`.
 * This issue was hard to debug as certain `tags` and `categories` links were broken. After spending some embarrassingly large amount of time, I finally understood that this was due to compiling strings with Unix style line endings in Linux.
 * One thing I learnt from this : `dos2unix` is of great help in fixing these errors.
