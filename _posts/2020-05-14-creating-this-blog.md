@@ -4,7 +4,6 @@ author: Soubhik Rakshit
 date: 2020-05-14 16:00:00 -0400
 categories: [Tutorial]
 tags: [jekyll]
-sticky: true
 ---
 
 > Its all fun and games until you try to compile a file with Unix style line endings in Linux.

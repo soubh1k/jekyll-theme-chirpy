@@ -4,7 +4,6 @@ author: Soubhik Rakshit
 date: 2020-05-14 20:00:00 -0400
 categories: [Thoughts]
 tags: [books]
-sticky: true
 ---
 
 This section was inspired by Patrick Collison's own [**bookshelf**](https://patrickcollison.com/bookshelf).
