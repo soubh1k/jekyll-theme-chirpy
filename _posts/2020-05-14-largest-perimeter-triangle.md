@@ -4,7 +4,7 @@ author: Soubhik Rakshit
 date: 2020-05-14 19:10:00 -0400
 categories: [Leetcode, Code]
 tags: [easy, array]
-published: false
+published: true
 ---
 
 [**LeetCode Question Link**](https://leetcode.com/problems/largest-perimeter-triangle/){:target="_blank"}
