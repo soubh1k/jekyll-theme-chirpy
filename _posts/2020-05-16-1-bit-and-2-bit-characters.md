@@ -19,11 +19,12 @@ NOTE:
 
 **Solution Approach**
 
-* This is a pretty simple problem. We start traversing the array from the beginning. If we read `0`, we know element is 1 bit and if we read `1` we increment the traversal index by one and we know that this would be a 2 bit number.
+* This is a pretty simple problem. We start traversing the vector from the beginning. If we read `0`, we know element is 1 bit and if we read `1` we increment the traversal index by one and we know that this would be a 2 bit number.
 * We return the final result as `true` if 1 bit or `false` otherwise.
 
 **Complexity**
 
+Let _n_ be the size of the input vector.
 * Time complexity - _O(n)_. We need to traverse the entire vector once.
 * Space complexity - _O(1)_. 
 

@@ -15,6 +15,7 @@ tags: [medium, array]
 > The order of output does not matter.
 
 **Solution Approach**
+
 * We use a sliding window technique by maintaining a HashMap containing frequency of characters in the window.
 * First we count the frequency of characters in `p` and store it in the HashMap `m`. Then we subtract the character frequency in `s` using a window size the same size as `p`.
 * Next, we keep sliding the window while removing the left element from `m` and adding the new element. We check if the current window forms an anagram and repeat this step until the window reaches end of `s`.
@@ -22,9 +23,9 @@ tags: [medium, array]
 
 **Complexity**
 
-Let \|s\| be the length of s and \|p\| be the length of p.
-* Time complexity - _O(\|s\|)_, as `s` is the larger array and we traverse it entirely once.
-* Space complexity - _O(\|p\|)_, Hashmap stores elements with size equal to window size which is \|p\|.
+Let \|`s`\| be the length of `s` and \|`p`\| be the length of `p`.
+* Time complexity - _O(\|`s`\|)_, as `s` is the larger array and we traverse it entirely once.
+* Space complexity - _O(\|`p`\|)_, Hashmap stores elements with size equal to window size which is \|`p`\|.
 
 **Code**
 
