@@ -1,5 +1,5 @@
 ---
-title: Find All Anagrams in a String
+title: Count Good Nodes in Binary Tree
 author: Soubhik Rakshit
 date: 2020-05-17 12:30:00 -0400
 categories: [Leetcode, Code]
