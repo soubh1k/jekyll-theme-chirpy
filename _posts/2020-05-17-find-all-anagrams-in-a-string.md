@@ -22,9 +22,9 @@ tags: [medium, array]
 
 **Complexity**
 
-Let |s| be the length of s.
-* Time complexity - _O(|s|)_, as `s` is the larger array and we traverse it entirely once.
-* Space complexity - _O(|s|)_, Hashmap stores sum of every pair of elements.
+Let \|s\| be the length of s.
+* Time complexity - _O(\|s\|)_, as `s` is the larger array and we traverse it entirely once.
+* Space complexity - _O(\|s\|)_, Hashmap stores sum of every pair of elements.
 
 **Code**
 
