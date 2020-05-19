@@ -2,7 +2,7 @@
 title: LeetCode Blogging
 author: Soubhik Rakshit
 date: 2020-05-13 00:00:00 -0400
-categories: [Tutorial]
+categories: [Personal, Meta]
 tags: [leetcode]
 ---
 

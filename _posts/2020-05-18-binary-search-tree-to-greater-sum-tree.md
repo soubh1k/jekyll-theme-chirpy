@@ -17,6 +17,7 @@ tags: [medium, tree]
 > * Both the left and right subtrees must also be binary search trees. 
 
 CONSTRAINTS:
+
 1. The number of nodes in the tree is between `1` and `100`.
 2. Each node will have value between `0` and `100`.
 3. The given tree is a binary search tree.

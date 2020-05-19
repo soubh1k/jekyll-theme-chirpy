@@ -2,7 +2,7 @@
 title: My Bookshelf
 author: Soubhik Rakshit
 date: 2020-05-14 20:00:00 -0400
-categories: [Thoughts]
+categories: [Personal, Thoughts]
 tags: [books]
 ---
 
