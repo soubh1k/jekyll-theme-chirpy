@@ -1,6 +1,6 @@
 # Blog
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d94f1b32-fbe3-4b54-824a-e5f8df0d1800/deploy-status)](https://app.netlify.com/sites/agitated-ptolemy-39cccd/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d94f1b32-fbe3-4b54-824a-e5f8df0d1800/deploy-status)](https://app.netlify.com/sites/soubhikrakshit/deploys)
 [![Build Status](https://github.com/cotes2020/jekyll-theme-chirpy/workflows/build/badge.svg?event=push)](https://github.com/cotes2020/jekyll-theme-chirpy/actions?query=event%3Apush)
 [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy.svg)](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE)
 [![996.icu](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu)
