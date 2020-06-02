@@ -1,5 +1,5 @@
 ---
-title: Delete Node in a Linked List
+title: Edit Distance
 author: Soubhik Rakshit
 date: 2020-06-02 10:25:00 -0400
 categories: [Leetcode, Code]
