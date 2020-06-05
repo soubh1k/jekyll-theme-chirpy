@@ -23,6 +23,7 @@ tags: [easy, tree]
 
 **Complexity**
 
+Let n be the number of nodes in the tree.
 * Time complexity - _O(n)_, since we use only 2 constant time operations.
 * Space complexity - _O(1)_, since we don't need any extra space.
 
