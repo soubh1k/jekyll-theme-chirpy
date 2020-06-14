@@ -1,5 +1,5 @@
 ---
-title: Groups of Special-Equivalent Strings
+title: Groups of Special Equivalent Strings
 author: Soubhik Rakshit
 date: 2020-06-13 20:00:00 -0400
 categories: [Leetcode, Code]
