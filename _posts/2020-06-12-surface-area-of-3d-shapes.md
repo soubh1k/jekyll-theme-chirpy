@@ -1,7 +1,7 @@
 ---
 title: Surface Area of 3D Shapes
 author: Soubhik Rakshit
-date: 2020-06-10 14:00:00 -0400
+date: 2020-06-12 14:00:00 -0400
 categories: [Leetcode, Code]
 tags: [easy, array]
 ---
