@@ -10,19 +10,27 @@ This section was inspired by Patrick Collison's own [**bookshelf**](https://patr
 
 I have read all the books listed here. They are arranged in no particular order.
 
-* Animal Farm
-* The Fault in our Stars
-* Harry Potter (Entire series)
-* e: The Story of a Number
-* The Alchemist
-* Faster than Lightning: My Autobiography (by Usain Bolt)
+* Zero to One - Peter Thiel
+* The Power of Habit - Charles Duhigg
+* The Million-Dollar One-Person Business - Elaine Pofeldt
+* Shoe Dog - Phil Knight
+* Atomic Habits - James Clear
+* Superfreakonomics - Steven Levitt, Stephen Dubner
+* Onward - Howard Schultz
+* Think Again - Adam Grant
+* Animal Farm - George Orwell
+* The Fault in our Stars - John Green
+* Harry Potter (Entire series) - J K Rowling
+* e: The Story of a Number - Elo Maor
+* The Alchemist - Paulo Coelho
+* Faster than Lightning: My Autobiography  - Usain Bolt
 * Malala
 * Steve Jobs
 * Surely You're Joking, Mr. Feynman!
-* Soccernomics (World Cup Edition): Why England Loses; Why Germany, Spain, and France Win; and Why One Day Japan, Iraq, and the United States Will Become Kings of the World's Most Popular Sport
-* Julius Caesar
-* Biswasghatak (by Narayan Sanyal)
-* Connect the Dots (by Rashmi Bansal)
-* Stay Hungry Stay Foolish (by Rashmi Bansal)
-* Life is what you make it (by Preeti Shenoy)
+* Soccernomics (World Cup Edition) - Simon Kuper, Stefan Szymanski
+* Julius Caesar - Shakespeare
+* Biswasghatak - Narayan Sanyal
+* Connect the Dots - Rashmi Bansal
+* Stay Hungry Stay Foolish - Rashmi Bansal
+* Life is what you make it - Preeti Shenoy
 * Unreal Elections (This book is past its time, but was certainly a good source of humor back in 2014)
