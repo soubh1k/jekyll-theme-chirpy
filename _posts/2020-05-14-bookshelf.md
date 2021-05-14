@@ -21,7 +21,7 @@ I have read all the books listed here. They are arranged in no particular order.
 * Animal Farm - George Orwell
 * The Fault in our Stars - John Green
 * Harry Potter (Entire series) - J K Rowling
-* e: The Story of a Number - Elo Maor
+* e: The Story of a Number - Eli Maor
 * The Alchemist - Paulo Coelho
 * Faster than Lightning: My Autobiography  - Usain Bolt
 * Malala
