@@ -10,6 +10,8 @@ This section was inspired by Patrick Collison's own [**bookshelf**](https://patr
 
 I have read all the books listed here. They are arranged in no particular order.
 
+* Rich Dad Poor Dad - Robert Kiyosaki
+* The Psychology of Money - Morgan Housel
 * Zero to One - Peter Thiel
 * The Power of Habit - Charles Duhigg
 * The Million-Dollar One-Person Business - Elaine Pofeldt
